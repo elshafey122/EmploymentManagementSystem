@@ -1,0 +1,12 @@
+G:\myapi\EmploymentManagementSystem.Core\bin\Debug\net6.0\EmploymentManagementSystem.Core.deps.json
+G:\myapi\EmploymentManagementSystem.Core\bin\Debug\net6.0\EmploymentManagementSystem.Core.dll
+G:\myapi\EmploymentManagementSystem.Core\bin\Debug\net6.0\EmploymentManagementSystem.Core.pdb
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.csproj.AssemblyReference.cache
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.AssemblyInfoInputs.cache
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.AssemblyInfo.cs
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.csproj.CoreCompileInputs.cache
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.dll
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\refint\EmploymentManagementSystem.Core.dll
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\EmploymentManagementSystem.Core.pdb
+G:\myapi\EmploymentManagementSystem.Core\obj\Debug\net6.0\ref\EmploymentManagementSystem.Core.dll

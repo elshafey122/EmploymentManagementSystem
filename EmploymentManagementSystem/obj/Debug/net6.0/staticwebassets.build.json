@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hhizZZmXK5YaGvakrYBeiSXlsERXW7rFeEnrE3HtVRo=",
+  "Source": "EmploymentManagementSystem.Api",
+  "BasePath": "_content/EmploymentManagementSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

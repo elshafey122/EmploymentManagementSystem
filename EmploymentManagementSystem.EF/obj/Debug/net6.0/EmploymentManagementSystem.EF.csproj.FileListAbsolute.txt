@@ -1,0 +1,17 @@
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.EF.deps.json
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.EF.runtimeconfig.json
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.EF.dll
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.EF.pdb
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.Core.dll
+G:\myapi\EmploymentManagementSystem.EF\bin\Debug\net6.0\EmploymentManagementSystem.Core.pdb
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.csproj.AssemblyReference.cache
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.GeneratedMSBuildEditorConfig.editorconfig
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.AssemblyInfoInputs.cache
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.AssemblyInfo.cs
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.csproj.CoreCompileInputs.cache
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.csproj.CopyComplete
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.dll
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\refint\EmploymentManagementSystem.EF.dll
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.pdb
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\EmploymentManagementSystem.EF.genruntimeconfig.cache
+G:\myapi\EmploymentManagementSystem.EF\obj\Debug\net6.0\ref\EmploymentManagementSystem.EF.dll
